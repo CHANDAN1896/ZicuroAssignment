@@ -19,11 +19,17 @@ go to cmd (respected file path) hit command : node main.js
 
 # How to Run
 bash
+
 Copy
+
 Edit
+
 git clone https://github.com/yourusername/abx-client.git
+
 cd abx-client
+
 dotnet build
+
 dotnet run
 
 # Output
