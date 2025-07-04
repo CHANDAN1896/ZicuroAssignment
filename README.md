@@ -38,6 +38,7 @@ Build and run the application
 
 # Output
 Parsed packets saved to output.json
+
 Errors logged to logs/YYYY-MM-DD.log
 
 Please Reach Out if you have any query.
