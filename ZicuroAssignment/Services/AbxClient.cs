@@ -156,6 +156,7 @@ namespace ZicuroAssignment.Services
             return missing;
         }
 
+       
         public void WriteToJson(List<TickerPacket> packets, string path = "output.json")
         {
             try
