@@ -29,7 +29,9 @@ go to cmd (respected file path) hit command : node main.js
 
 # How to Run
 
-git clone https://github.com/yourusername/abx-client.git
+git clone --branch master 
+
+https://github.com/CHANDAN1896/ZicuroAssignment.git
 
 Use above Url and Clone the application
 
