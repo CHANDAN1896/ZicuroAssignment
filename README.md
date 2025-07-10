@@ -23,7 +23,7 @@ A TCP server that supports:
 
 0x02 <sequence> → request specific packet
 
-To Open Port 3000 must install nodejs and extract the zip which is provided to us in that there is main.js file.
+To open port 3000, you must first install Node.js. After that, extract the provided ZIP file named abx_exchange_server.zip. Inside the extracted folder, you'll find a file named main.js, which is the entry point for the server.
 
 go to cmd (respected file path) hit command : node main.js
 
